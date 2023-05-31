@@ -1,0 +1,2 @@
+# yaxsas
+pemograman sederhana
